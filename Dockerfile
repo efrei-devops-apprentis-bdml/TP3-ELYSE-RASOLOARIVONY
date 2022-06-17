@@ -9,6 +9,6 @@ COPY  Curl.py .
 
 COPY Curl.py . 
 
-EXPOSE 5000 
+EXPOSE 80 
 
 CMD [ "python", "Curl.py" ]
