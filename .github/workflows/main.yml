@@ -1,6 +1,6 @@
 on: [push]
 
-name: Azure_Github-Action
+name: Azure_GithubAction
 
 
 
